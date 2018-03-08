@@ -1,0 +1,5 @@
+Remember to export these enviroment variables so you can deploy lambdas securely and quickly using 
+your secrets found in the ~/.aws/credentials file
+
+export AWS_PROFILE=serverless-admin
+export AWS_REGION=us-west-2
