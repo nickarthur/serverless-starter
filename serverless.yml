@@ -1,4 +1,4 @@
-service: serverless-starter
+service: nan-serverless-starter
 
 provider:
   name: aws
